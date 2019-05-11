@@ -1,0 +1,23 @@
+{
+  "name": "ts-codegeneration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matulkum/ts-codegeneration.git"
+  },
+  "author": "mak",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/matulkum/ts-codegeneration/issues"
+  },
+  "homepage": "https://github.com/matulkum/ts-codegeneration#readme",
+  "dependencies": {
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  }
+}
